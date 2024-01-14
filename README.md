@@ -1,5 +1,3 @@
-README para la aplicación "TennisStats"
-
 ## Descripción
 "TennisStats" es una aplicación web que permite a los usuarios llevar un registro de sus partidos de tenis, consultar estadísticas y realizar reservas de pistas. La aplicación está diseñada para ser intuitiva y fácil de usar, y está dirigida a personas de todas las edades interesadas en el tenis.
 
