@@ -1,0 +1,6 @@
+@TennisStats_HostAddress = http://localhost:5126
+
+GET {{TennisStats_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
