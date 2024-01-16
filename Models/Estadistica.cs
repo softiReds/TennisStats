@@ -7,5 +7,7 @@
         public int Saques {  get; set; }
         public int Dobles {  get; set; }
         public int Errores { get; set; }
+
+        public virtual Usuario Usuario { get; set; }
     }
 }
