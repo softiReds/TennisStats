@@ -10,5 +10,6 @@
         public string Contraseña {  get; set; }
 
         public virtual Genero Genero { get; set; }
+        public virtual ICollection<Partido> Partidos { get; set; }
     }
 }
